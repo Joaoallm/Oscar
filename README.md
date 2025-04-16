@@ -14,7 +14,7 @@ R: Dados atualizados
 R: 11004
 
 Q: 
-```
+```js
 db.registros.countDocuments()
 ```
 ---
