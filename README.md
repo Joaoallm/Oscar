@@ -7,11 +7,16 @@ Abaixo, algumas atividades para trabalharmos.
 --- 
 
 * Atualize os registros da tabela com os dados do Oscar 2025
-
+R: Dados atualizados
 ---
 
 * Qual o **total** de registros na tabela indicados?
+R: 11004
 
+Q: 
+```
+db.registros.countDocuments()
+```
 ---
 
 * Qual o número de indicações por categoria agrupadas por categoria?
